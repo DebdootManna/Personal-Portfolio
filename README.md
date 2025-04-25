@@ -33,7 +33,7 @@ Welcome to my personal portfolio website, showcasing my journey in technology, m
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/debdootmanna.git
+   git clone https://github.com/debdootmanna/debdootmanna.git
    \`\`\`
 
 2. Navigate to the project directory:
